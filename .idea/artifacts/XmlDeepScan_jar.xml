@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="XmlDeepScan:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/XmlDeepScan_jar</output-path>
+    <root id="archive" name="XmlDeepScan.jar">
+      <element id="module-output" name="XmlDeepScan" />
+    </root>
+  </artifact>
+</component>
